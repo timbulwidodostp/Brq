@@ -1,6 +1,8 @@
 # Brq
 Bayesian Quantile Regression Use Brq With (In) R Software
 
+https://www.youtube.com/watch?v=ycH0HrCAAjw
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
